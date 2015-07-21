@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SiccoWorkManage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- NgaDV-->
+    <string name="assign_task">Giao việc</string>
+    <string name="assigned_task">Đã giao</string>
+    <string name="list_task">Danh sách</string>
+
+    <string name="logout">Đăng xuất</string>
+</resources>
